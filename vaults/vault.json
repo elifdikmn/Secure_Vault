@@ -1,0 +1,10 @@
+{
+    "salt": "60bea570e897c01c8ed05fcd35c7494f",
+    "hashed_key": "ebad9b3dbbbabb12321cc97b6248b4717e4b27ca613c3de57ea5ba6136dc3fae",
+    "files": [
+        {
+            "name": "acceptance_letter.pdf",
+            "hash": "2c06582fda145769c0767467c533b9e39d9248e02326a7717ffb859ffe4a3fdf"
+        }
+    ]
+}
